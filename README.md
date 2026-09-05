@@ -2,7 +2,7 @@
 
 A responsive IT asset management landing page and interactive admin dashboard built with Next.js, React, TypeScript and Recharts.
 
-**Live demo:** [TrackForge](https://trackforge-asset-dashboard.dicksoneb103.chatgpt.site)
+**Live demo:** [TrackForge](https://trackforge-asset.vercel.app)
 
 ## Overview
 
